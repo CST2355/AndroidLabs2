@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndroidLabs</string>
+    <string name="app_name">Laboratoire android</string>
     <string name="hello_message">bonjour!!</string>
-    <string name="ButtonText">Hello Button</string>
+    <string name="ButtonText">Bonjour bouton</string>
+    <string name="TextView">Bonjour Login</string>
+    <string name="EditText">Identifiant</string>
+    <string name="hint">login_Identifiant</string>
+    <string name="login_name">login_Identifiant</string>
+    <string name="TextView1">mot de passe </string>
+    <string name="EditText">type de passed</string>
+    <string name="hint">type_de passe</string>
+    <string name="type_password">type de passe</string>
+    <string name="RadioButton">Buton radio</string>
+    <string name="Checkbox">Case</string>
+    <string name="Switch">communear</string>
+    <string name="app_name">mon application</string>
 </resources>

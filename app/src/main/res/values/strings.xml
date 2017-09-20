@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+
+
+    <string name="TextView">Login</string>
+    <string name="EditText">LoginName</string>
+    <string name="hint">login_name</string>
+    <string name="login_name">login_name</string>
+    <string name="TextView1">Password</string>
+    <string name="EditText">type_password</string>
+    <string name="hint">type_password</string>
+    <string name="type_password">type_password</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="Checkbox">Checkbox</string>
+    <string name="Switch">Switch</string>
+    <string name="app_name">myapplication</string>
+
+</resources>
